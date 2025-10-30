@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raneem Wael</h1>
+<h1 align="center">Hello 👋, I'm Raneem Wael</h1>
 <h3 align="center">A Game Developer. I worked on multiple projects on Unity, Unreal, developed many games and VR projects</h3>
 
 - 📫 How to reach me **raneemwael80@gmail.com**
